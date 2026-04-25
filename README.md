@@ -1,5 +1,5 @@
 # 📊 Employee Management System (EMS)
-**Final Project | C Programming & System Logic**
+**Final Project | C Programming 
 
 ## 📝 Project Overview
 This Employee Management System is a Console based system designed to streamline the handling of staff records. Developed as a final project, it focuses on efficient data management using C, utilizing file handling for persistence and structures for organized data storage.
@@ -8,10 +8,7 @@ This Employee Management System is a Console based system designed to streamline
 - **Project Name:** Employee Management System
 - **Developer:** Thupten Dolkar lama
 - **Core Technology:** C Language, GCC Compiler, Makefile
-
-## 📁 Project Documentation
-* **[📄 View Final Presentation (PDF)](./Final_Presentation.pdf)**
-* **[📊 Download Presentation (PowerPoint)](./EMS_Final_Presentation.pptx)**
+- **Project Documentation:**[📄 View Final Presentation (PDF)](./Final_Presentation.pdf)**
 
 
 ## 🛠️ Key Technical Features
