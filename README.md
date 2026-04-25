@@ -8,7 +8,11 @@ This Employee Management System is a Console based system designed to streamline
 - **Project Name:** Employee Management System
 - **Developer:** Thupten Dolkar lama
 - **Core Technology:** C Language, GCC Compiler, Makefile
-- **Documentation:** [View Final Presentation](./Final_Presentation.pdf)
+
+## 📁 Project Documentation
+* **[📄 View Final Presentation (PDF)](./Final_Presentation.pdf)**
+* **[📊 Download Presentation (PowerPoint)](./EMS_Final_Presentation.pptx)**
+
 
 ## 🛠️ Key Technical Features
 - **CRUD Operations:** Full capability to Create, Read, Update, and Delete records.
